@@ -17,9 +17,7 @@
 
 ### User Stories
 
-Rôle : Chef de projet (= créateur du projet, propriétaire), Membre du projet (= participant au projet)
-
-Etimation en points de complexité (1, 2, 3, 4, 5)
+Estimation en points de complexité (1, 2, 3, 4, 5)
 
 
 - US1: En tant que membre du projet, je veux pouvoir créer une issue avec un titre, une description, une priorité et un statut.
@@ -27,7 +25,7 @@ Etimation en points de complexité (1, 2, 3, 4, 5)
     - Priorité : Haute
     - Estimation : 2
 
-- US2: En tant que chef de projet, je veux pouvoir assigner une issue à un membre de l’équipe.
+- US2: En tant que membre d'un projet, je veux pouvoir assigner une issue à un membre de l’équipe.
     - Type : Fonctionnelle
     - Priorité : Haute
     - Estimation : 2
@@ -72,7 +70,7 @@ Etimation en points de complexité (1, 2, 3, 4, 5)
     - Priorité : Moyenne
     - Estimation : 2
 
-- US12: En tant que chef de projet, je veux pouvoir visualiser un tableau de bord des tests (résultats réussis/échoués).
+- US12: En tant que membre d'un projet, je veux pouvoir visualiser un tableau de bord des tests (résultats réussis/échoués).
     - Type : Fonctionnelle
     - Priorité : Moyenne
     - Estimation : 2
