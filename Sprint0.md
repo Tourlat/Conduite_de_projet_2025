@@ -173,9 +173,3 @@ US22 : Liaison Documentation et Issues
 - Base de données: PostgreSQL, Mongodb, run with Docker
 - Outils de collaboration: GitHub
 - Outils de communication: Slack, Discord
-
-## Tâches associées au Sprint 0
-### Ajouter dans le fichier Task0.md
-
-## Répartition des rôles / travail / Backlog
-### Ajouter dans le fichier README.md pour le Backlog
