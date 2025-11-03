@@ -169,6 +169,11 @@
 - T2.2 : Implémenter l'API de connexion — 1 pt  
 - T2.3 : Créer le formulaire de connexion front-end — 1 pt  
 
+#### US3 : Gestion de Profil
+- T3.1 : Développer l'API de gestion de profil — 1 pt  
+- T3.2 : Interface de modification du profil utilisateur — 1 pt  
+- T3.3 : Changement de mot de passe — 1 pt  
+
 #### US4 : Création de Projet
 - T4.1 : Développer l'API de création de projet — 1 pt  
 - T4.2 : Concevoir la base de données pour les projets — 1 pt  
@@ -176,24 +181,21 @@
 
 
 **Répartition des tâches :**
-
+Kenzo: T1.4, T2.3, T4.3, T3.2
+Felix: T1.2, T1.3, T2.1, T2.2
+Justus: T1.1, T3.1, T3.3, T4.1, T4.2
 
 **Coût total du Sprint :**
-10 points
+14 points
 
 ### Sprint 2 (06/11 au 19/11)
 
 **Objectifs :**
-- Permettre la gestion du profil utilisateur (édition et mot de passe).  
 - Gérer la structure et les membres d’un projet.  
 - Mettre en place la sauvegarde automatique des données. 
+- Issues et Tâches
 
 **Tâches prévues :**
-
-#### US3 : Gestion de Profil
-- T3.1 : Développer l'API de gestion de profil — 1 pt  
-- T3.2 : Interface de modification du profil utilisateur — 1 pt  
-- T3.3 : Changement de mot de passe — 1 pt  
 
 #### US5 : Gestion de Projet
 - T5.1 : Développer l'API de gestion des membres — 2 pts  
@@ -207,24 +209,23 @@
 - T6.2 : Implémenter la sauvegarde automatique — 2 pts  
 - T6.3 : Implémenter la restauration automatique — 1 pt  
 
-### Coût total du Sprint 2 : **13 points**
+#### US7 à US10 : Issues et Tâches
+- T7.1 / T7.2 — 2 pts  
+- T8.1 / T8.2 — 2 pts  
+- T9.1 / T9.2 — 2 pts  
+- T10.1 / T10.2 — 2 pts  
+
+### Coût total du Sprint 2 : **18 points**
 
 
 ### Sprint 3 (20/11 au 03/12)
 
 **Objectifs :**
 
-
 **Tâches prévues :**
 
-- Gestion des issues, tâches et backlog.  
+- Gestion du backlog.  
 - Visualisation, suivi, releases, tests et documentation.  
-
-#### US7 à US10 : Issues et Tâches
-- T7.1 / T7.2 — 2 pts  
-- T8.1 / T8.2 — 2 pts  
-- T9.1 / T9.2 — 2 pts  
-- T10.1 / T10.2 — 2 pts  
 
 #### US11 à US14 : Backlog, Kanban, Assignations, Temps
 - T11.1 / T11.2 / T11.3 — 3 pts  
@@ -242,6 +243,4 @@
 - T21.1 / T21.2 — 2 pts  
 - T22.1 / T22.2 — 2 pts  
 
-**Coût total du Sprint 3 :** **27 points**
-
-
+**Coût total du Sprint 3 :** **25 points**
