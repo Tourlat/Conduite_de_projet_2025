@@ -11,6 +11,11 @@
 - T2.2 : Implémenter l'API de connexion — 1 pt  
 - T2.3 : Créer le formulaire de connexion front-end — 1 pt  
 
+**US3 : Gestion de Profil**
+- T3.1 : Développer l'API de gestion de profil (GET/PUT /user/profile) — 1 pt
+- T3.2 : Interface de modification du profil utilisateur — 1 pt
+- T3.3 : Implémenter la fonctionnalité de changement de mot de passe — 1 pt
+
 **US4 : Création de Projet**
 - T4.1 : Développer l'API de création de projet — 1 pt  
 - T4.2 : Concevoir la base de données pour les projets — 1 pt  

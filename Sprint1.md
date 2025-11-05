@@ -11,3 +11,11 @@
 - Scrum Master : Kenzo
 - Développeurs Backend : Félix et Justus
 - Développeurs Frontend : Félix et Kenzo
+
+**Répartition des tâches :**
+
+Kenzo: T1.4, T2.3, T4.3, T4.1
+
+Felix: T1.2, T1.3, T2.1, T2.2, T3.2
+
+Justus: T3.1, T4.1, T4.2; T1.1, T3.3
