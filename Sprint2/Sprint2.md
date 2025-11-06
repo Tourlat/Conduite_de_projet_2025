@@ -1,4 +1,4 @@
-### Sprint 1 (05/11 au 19/11)
+### Sprint 2 (05/11 au 19/11)
 
 **Objectifs :**
 - Permettre aux de modifier et/ou supprimer un projets,
