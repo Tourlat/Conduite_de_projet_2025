@@ -210,10 +210,14 @@ Justus: T1.1, T3.1, T3.3, T4.1, T4.2
 - T6.3 : Implémenter la restauration automatique — 1 pt  
 
 #### US7 à US10 : Issues et Tâches
-- T7.1 / T7.2 — 2 pts  
-- T8.1 / T8.2 — 2 pts  
-- T9.1 / T9.2 — 2 pts  
-- T10.1 / T10.2 — 2 pts  
+- T7.1 : Développer l'API de création d'issue (POST /projects/:id/issues), une issue est composée d'un titre, d'une description et d'une priorité - 1 point
+- T7.2 : Créer le formulaire de création d'issue (front-end) - 1 point
+- T8.1 : Développer l'API d'assignation d'issue (PUT /projects/:id/issues/:issueId/assign) - 1 point
+- T8.2 : Créer le formulaire d'assignation d'issue (front-end) - 1 point
+- T9.1 : Développer l'API de modification du statut d'issue (PUT /projects/:id/issues/:issueId/status) - 1 point
+- T9.2 : Créer l'interface front-end pour changer le statut (dropdown/boutons) - 1 point
+- T10.1 : Développer l'API de création de tâches liées aux issues (POST /projects/:id/issues/:issueId/tasks) - 1 point
+- T10.2 : Créer le formulaire de création de tâches (front-end) - 1 point
 
 ### Coût total du Sprint 2 : **18 points**
 
