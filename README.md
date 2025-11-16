@@ -2,6 +2,8 @@
 
 ## Liste des tâches par User Story
 
+Pour voir les détails des User Stories, se référer au fichier [Sprint0/Sprint0.md](Sprint0/Sprint0.md).
+
 --- 
 
 #### US1 : Création de Compte
@@ -219,6 +221,7 @@ Justus: T1.1, T3.1, T3.3, T4.1, T4.2
 - T10.1 : Développer l'API de création de tâches liées aux issues (POST /projects/:id/issues/:issueId/tasks) - 1 point
 - T10.2 : Créer le formulaire de création de tâches (front-end) - 1 point
 
+
 ### Coût total du Sprint 2 : **18 points**
 
 
@@ -232,9 +235,13 @@ Justus: T1.1, T3.1, T3.3, T4.1, T4.2
 - Visualisation, suivi, releases, tests et documentation.  
 
 #### US11 à US14 : Backlog, Kanban, Assignations, Temps
-- T11.1 / T11.2 / T11.3 — 3 pts  
-- T12.1 / T12.2 — 2 pts  
-- T13.1 / T13.2 — 2 pts  
+- T11.1 : Développer l'API de récupération du backlog (GET /projects/:id/backlog) - 1 point
+- T11.2 : Créer la vue liste du backlog (front-end) - 1 point
+- T11.3 : Implémenter les filtres et tri du backlog - 1 point
+- T12.1 : Créer la vue Kanban pour les tâches (front-end) - 1 point
+- T12.2 : Implémenter le toggle entre vue Kanban et vue liste - 1 point  
+- T13.1 : Développer l'API pour récupérer les tâches assignées à un utilisateur (GET /users/me/tasks) - 1 point
+- T13.2 : Créer le dashboard personnel des tâches assignées (front-end) - 1 point 
 - T14.1 / T14.2 — 2 pts  
 
 #### US15 à US22 : Releases, Tests, Documentation
