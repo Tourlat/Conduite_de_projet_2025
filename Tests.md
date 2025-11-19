@@ -1,5 +1,4 @@
 # Tests
-## Sprint 1
 
 ### Tests Backend:
 
@@ -18,6 +17,3 @@
 
 - CI/CD
     * Github workflows qui exécutent les tests frontend et backend automatiquement pour chaque pull request et chaque push/commit sur la branche main
-
-
-## Sprint 2

@@ -12,7 +12,7 @@
 - T6.2 : Implémenter la sauvegarde automatique — 2 pts  
 - T6.3 : Implémenter la restauration automatique — 1 pt  
 
-#### US7 à US12 : Issues et Tâches
+#### US7 à US13 : Issues et Tâches
 - T7.1 : Développer l'API de création d'issue (POST /projects/:id/issues), une issue est composée d'un titre, d'une description et d'une priorité - 1 point
 - T7.2 : Créer le formulaire de création d'issue (front-end) - 1 point
 - T8.1 : Développer l'API d'assignation d'issue (PUT /projects/:id/issues/:issueId/assign) - 1 point
